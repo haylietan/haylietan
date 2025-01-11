@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haylie</h1>
 <h3 align="center">A passionate front-end developer from the Bay Area</h3>
 
-- 🔭 I’m currently working on [women's safety](https://github.com/D3C-Womens-Safety)
-
-- 🌱 I’m currently learning **more about front-end design**
-
 - 📫 How to reach me **haylie.tan.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
