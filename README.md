@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Haylie</h1>
-<h2 align="left">A front-end developer from the Bay Area</h2>
+<h3 align="left">Hi 👋, I'm Haylie</h3>
+<h4 align="left">A front-end developer from the Bay Area</h4>
 
 - 📫 Reach me **haylie.tan.code@gmail.com**
 
