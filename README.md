@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Haylie</h1>
-<h3 align="center">A passionate front-end developer from the Bay Area</h3>
+<h1 align="left">Hi 👋, I'm Haylie</h1>
+<h2 align="left">A front-end developer from the Bay Area</h2>
 
-- 📫 How to reach me **haylie.tan.code@gmail.com**
+- 📫 Reach me **haylie.tan.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
