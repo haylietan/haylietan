@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/haylietan27/)**
+  - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/haylietan27/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
