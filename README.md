@@ -1,11 +1,8 @@
 <h3 align="left">Hi 👋, I'm Haylie</h3>
-<h4 align="left">A front-end developer from the Bay Area</h4>
+<h4 align="left">A CS student at UC Davis from the Bay Area</h4>
 
-- 📫 Reach me **haylie.tan.code@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  - 💻 Connect with me on <a href="https://www.linkedin.com/in/haylietan27/">LinkedIn</a>
+- 📫 Reach me **haylie.tan.college@gmail.com** or 
+- 💻 Connect with me on <a href="https://www.linkedin.com/in/haylietan27/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
