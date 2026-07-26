@@ -9,7 +9,7 @@ Right now, I'm especially interested in:
 
 ### What I'm up to
 
-🚌 Software Engineer Intern @ ASUCD Innovation & Research Lab  
+🚌 Software Engineer @ ASUCD Innovation & Research Lab  
 Developing the official UC Davis Mobile app to improve the campus transit experience for thousands of UC Davis students.
 
 🌱 Website Development Intern @ UC Davis College of Biological Sciences  
